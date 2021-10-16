@@ -1,0 +1,45 @@
+create env
+Install pyttsx3
+Install SpeechRecognition
+Install pipwin
+pipwin install pyaudio
+pip install email-to
+
+
+
+
+
+
+------Jarvis can perform-------------
+1. how are you
+2.who i am
+3.why you came to world
+4.search or play
+5.open notepad
+6.close notepad
+7.open command prompt
+8.close command prompt
+9.open camera
+10.i want to code 1.pycharm 2.visual studio
+11.what is my ip address
+12.where i am 2.where are we 3.where am i
+13.wikipedia --search anything
+14.write a note   -show note
+15.open game
+16.open youtube
+17.open facebook
+18.open stack overflow
+19.open google
+20.tell me the news
+21.tell me a joke
+22.lock window
+23.shut down the system  2.shutdown  3.close the system
+24.restart the system
+25.switch the window
+26.weather whether temperature
+27.activate how to do mode /activate how to do mod  ---exit/close/stop
+28.you can sleep now 2.sleep now
+29.terminate now
+30.convert to morse code  2.morse code
+
+
